@@ -1,3 +1,4 @@
+#!/usr/bin/env python2
 """Beautiful Soup
 Elixir and Tonic
 "The Screen-Scraper's Friend"
